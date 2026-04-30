@@ -8,7 +8,8 @@
 * Tích hợp chatbot hỗ trợ
 ---
 ## Thiết kế giao diện (Figma)
-Xem tại đây:
+---
+* Xem tại đây:
 https://www.figma.com/design/eHhuoZj8E7SfogF8Nx7Mcx/EATWISE?node-id=68-221&t=FjWJxucg6In6Is1N-1
 ---
 ## Tài liệu
