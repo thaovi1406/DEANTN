@@ -1,4 +1,4 @@
-# 🍽️ ĐỒ ÁN TỐT NGHIỆP - HỆ THỐNG QUẢN LÝ BỮA ĂN
+# ĐỒ ÁN TỐT NGHIỆP - HỆ THỐNG QUẢN LÝ BỮA ĂN
 
 ## Giới thiệu
 
@@ -19,7 +19,7 @@ https://www.figma.com/design/eHhuoZj8E7SfogF8Nx7Mcx/EATWISE?node-id=68-221&t=FjW
 
 ---
 
-## 📄 Tài liệu
+## Tài liệu
 
 * 📑 Báo cáo: [Download](./Van_NguyenThiThaoVi_48K14.1.pdf)
 
