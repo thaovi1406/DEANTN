@@ -21,7 +21,7 @@ https://www.figma.com/design/eHhuoZj8E7SfogF8Nx7Mcx/EATWISE?node-id=68-221&t=FjW
 
 ## Tài liệu
 
-* 📑 Báo cáo: [Download](./Van_NguyenThiThaoVi_48K14.1.pdf)
+* Báo cáo: [Download](./document/Van_NguyenThiThaoVi_48K14.1.pdf))
 
 ---
 
